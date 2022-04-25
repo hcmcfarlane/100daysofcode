@@ -1,28 +1,19 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code Log
 
-### Day 1: Sunday 24 April 2022
+## Day 1: Sunday 24 April 2022
 
-**Today's Progress**: CSS animations with FreeCampCode for the Responsive Web Design course -- applied visual design
+**Today's Progress**: CSS animations with FreeCampCode for the Responsive Web Design course – applied visual design
 
 **Thoughts:** Very easy, made me feel smart.
 
-**Link to work:** https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design
+**Link to work:** [FreeCodeCamp - Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+[[[blank version]]]
+## Day X: Sunday 24 April 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: XXX
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** XXX
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
