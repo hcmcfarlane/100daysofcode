@@ -14,7 +14,7 @@
 
 **Thoughts:** Definitely haven't committed these to memory, but I guess don't need to. Just knowing they exist and roughly how to use them will make it possible to use them down the line. 
 
-**Links:** [CSS Diner]("https://flukeout.github.io") | [Grid Garden]("https://www.cssgridgarden.com")
+**Links:** [CSS Diner](https://flukeout.github.io) | [Grid Garden](https://www.cssgridgarden.com)
 
 <!-- blank version
 
