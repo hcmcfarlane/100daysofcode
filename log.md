@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Sunday 24 April 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: CSS animations with FreeCampCode for the Responsive Web Design course -- applied visual design
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Very easy, made me feel smart.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
