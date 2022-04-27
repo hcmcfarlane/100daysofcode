@@ -22,7 +22,15 @@
 
 **Thoughts:** Making our weird little psychedelic css koala was a joy. The walk was really nice too and I feel a little more refreshed than I was at this time yesterday.
 
-**Links:** [xx]("") | [xx]("")
+**Links:** [Github Classroom – CSS Koala](https://github.com/SchoolOfCode/w1d2_create-a-koala-workshop-hannah-brycen) | [Twitter link to gif](https://twitter.com/hannahdoesacode/status/1518990716332040192?s=20&t=U2iNkgMmKPKPnxB4a8sp5Q)
+
+## Day 4: Wednesday 27 April 2022
+
+**Today’s progress:** Day 3 of School of Code! Today we got stuck into our first touch of Javascript. I had _maybe_ seen a line or two of Javascript before today (and, fortunately, did some C back in uni), but I was coming into this pretty cold. Paired again with my code buddy Brycen, I really surprised myself by getting a lot further with our github classroom tasks than I expected! We created a webpage that returns a 'secret' after you click a button. Brycen worked on a _Super Duper_ secret button using CSS animations, while I styled the page in CSS.
+
+**Thoughts:** More chaos! Felt a bit tired this morning when waking up, really groggy, not sure why
+
+**Links:** [Super Secret Info Page](https://vigilant-goggles-6823b854.pages.github.io/)
 
 <!-- blank version
 
@@ -32,5 +40,5 @@
 
 **Thoughts:** XXX
 
-**Links:** [xx]("") | [xx]("")
+**Links:** [xx]() | [xx]()
 -->
