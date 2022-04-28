@@ -32,6 +32,14 @@
 
 **Links:** [Super Secret Info Page](https://vigilant-goggles-6823b854.pages.github.io/)
 
+## Day 5: Thursday 28 April 2022
+
+**Today’s progress:** Day 4 of School of Code! Today, some more javascript, understanding objects {} and arrays []. Some things are coming back to me, like zero-indexed arrays and how to manipulate elements of an array. Also learnt some new functions, like `length`, `map` and `Math.random`. Tried again to understand CSS grids, failed. More practice needed.
+
+**Thoughts:** Bit tired again today, but excited to be doing 'real' things with JS!
+
+**Links:** [Arrays Workshop](https://github.com/SchoolOfCode/w1d4_js-arrays-workshop-hannah-brycen)
+
 <!-- blank version
 
 ## Day X: XXX XX XXX 2022
