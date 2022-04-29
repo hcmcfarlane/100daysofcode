@@ -40,6 +40,14 @@
 
 **Links:** [Arrays Workshop](https://github.com/SchoolOfCode/w1d4_js-arrays-workshop-hannah-brycen)
 
+## Day 6: Friday 29 April 2022
+
+**Today’s progress:** Day 5 and first hackathon with SOC. Today, tasked with creating a rock scissors paper game in the browser. There was a working product by the end, although some bits of the code were preeeeety hacky - way too much repetition instead of making neat functions, for example. I used a design generator called Neumorphism to create a sick background for our game. I also met with my mentor, Mark, who had some great advice about not getting too far ahead of myself with specialising, and just focus on learning to be a programmer. The rest will come.
+
+**Thoughts:** Need to work on the 'making a plan' aspect of programming, so that my code is neater, scopes are clearly defined (not just making everything global and being done with it...). It's great to have a mentor, I already feel like he's got my back. 
+
+**Links:** [Rock, Paper, Scissors](https://bookish-fiesta-9c352109.pages.github.io/) | [Neumorphism](https://neumorphism.io/#0dd9cb)
+
 <!-- blank version
 
 ## Day X: XXX XX XXX 2022
