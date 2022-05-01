@@ -56,7 +56,7 @@
 
 **Links:** [Codewars – Narcissistic numbers](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
-## Day 8: Sunday 31 April 2022
+## Day 8: Sunday 1 May 2022
 
 **Today’s progress:** Some more Codewars today. Did a few of the easier katas at 8 kyu. The one I did yesterday was 6 kyu, so these were a comparable breeze. I'm using the experience of having small, simple challenges to ensure that I'm planning for each stage. I still need to find out more about the inbuilt functions for manipulating arrays and strings. For example, I built some lovely code that looped over an array and concatted each element into a new string – I could have just used `join(" ")` ... Well, practice makes perfect.
 
