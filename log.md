@@ -64,6 +64,14 @@
 
 **Links:** [Codewars – Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 
+# Day 9: Monday 2 May 2022
+
+**Today’s progress:** Another 7 kyu kata on Codewars today. Squared individual digits in a number. Not quite an hour's work but it was the long weekend :P 
+
+**Thoughts:** Much better at breaking down the problems into smaller things
+
+**Links:** [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
+
 <!-- blank version
 
 ## Day X: XXX XX XXX 2022
