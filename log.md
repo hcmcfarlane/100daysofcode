@@ -72,6 +72,22 @@
 
 **Links:** [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 
+## Day 10: Tuesday 2 May 2022
+
+**Today’s progress:** Start of Week 2 of SOC! In the morning, we had a chat from some previous bootcampers who now work for Wise. Some great advice from them on allowing yourself to rely on your mentor; practice working well with others in a team; keep a diary/journal (or #100DaysOfCode log!) so you can look back on your progress; measure your performance by how much your are _improving_; a key transferable skill you are gaining from SOC is being able to learn; ask more questions; put the hackathon projects on your github as a mini portfolio! In class, we launched right into DOM manipulation and event listeners. From learning about the DOM before lunch to adding event listeners for clicks, keyups and changes in the afternoon, a fairly huge leap!
+
+**Thoughts:** I kept up well with class today, but I don't feel like I'm being challenged by the content, as I'm helping my partner this week keep up to speed. I would like more opportunities to get creative and test ideas and look stuff up, but I'm trying to embrace the opportunity to consolidate what I already know by teaching someone else.
+
+**Links:** [addEventListener on MDN](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) | [Wise.](https://withwise.com/) _not transferwise lol_
+
+## Day 11: Wednesday 3 May 2022
+
+**Today’s progress:** Asynchronous code in the AM to fetching from APIs in the PM... I mean, look at us go... Managed to complete the bonus tasks today on the workshop, and pretty happy with that. Learnt of the importance of `await` : ALWAYS AWAIT A PROMISE. We used the [kanye.rest](https://kanye.rest) API to pull some Kanye quotes and put them in a list, while also avoiding duplicates. I felt like the problem wasn't too difficult to solve, and this time I remembered to check if JS already had a method to do the thing I wanted to do (YES - `includes()` exists). 
+
+**Thoughts:** Pretty happy with today's stuff, all brand new and I think I pretty much understand it. 
+
+**Links:** [fetch() @MDN ](https://developer.mozilla.org/en-US/docs/Web/API/fetch) | [includes() @MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes) | [kanye.rest](https://kanye.rest)
+
 <!-- blank version
 
 ## Day X: XXX XX XXX 2022
