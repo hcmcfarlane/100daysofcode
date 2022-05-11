@@ -24,13 +24,11 @@ We are still looking at UX/UI this week, and we had an overview of visual design
 
 ## Day 16: Tuesday 10 May 2022
 
-**Today’s progress:** Still in UX/UI week, and in the AM we had a talk from Javaid Karim and Alex Fairholm of Nester investments. They spoke about the company and the need to create a user interface that also captured complex data to fulfil legislative requirements about financial products. One great piece of advice from Alex was around creating portfolios that not just show your work, but that show the challenges you overcame and how you solved problems. Also today we had a quick overview on user-centred design, and my partner Zainab and I worked on a simple idea for an application process for a maths 'bootcamp' for gifted children. We mapped out a user flow for the application process with a flowchart. 
+**Today’s progress:** Still in UX/UI week, and in the AM we had a talk from Javaid Karim and Alex Fairholm of Nester investments. They spoke about the company and the need to create a user interface that also captured complex data to fulfil legislative requirements about financial products. One great piece of advice from Alex was around creating portfolios that not just show your work, but that show the challenges you overcame and how you solved problems. Also today we had a quick overview on user-centred design, and my partner Zainab and I worked on a simple idea for an application process for a maths 'bootcamp' for gifted children. We mapped out a user flow for the application process with a flowchart. Oh, and we created a simple 'dark mode' for a website that applied itself on a button click!
 
 In the evening, I attended a virtual talk at ConFig (Figma conference) on Designing for Neurodiversity, presented by Treyce Meredith of Dropbox. I found it super fascinating and really appreciated the lessons he offered on the difference between Access and Success, and these three important principles: Be Abundant, Be Forgiving, Be Nurturing.
 
 **Thoughts:** Quite tired today, struggling a little with the work and keeping up with life admin.
-
-**Links:** [xx]() | [xx]()
 
 ## Day 15: Monday 9 May 2022
 
