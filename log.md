@@ -11,6 +11,62 @@
 **Links:** [xx]() | [xx]()
 -->
 
+## Day 17: Wednesday 11 May 2022
+
+**Today’s progress:** In the future if I'm looking for my notes on today (Week 3, Day 3 of SOC), then they are in the back section of my first notebook because I had the wrong tab open :) 
+Today we had a guest speaker, Luke Edwards from Immediate Media (a magazine/media publishing company), who talked about sort of 'the day in the life of a UI designer', including a bit of detail on sprints, dev days, retros, and working on tickets. One great piece of advice he gave was "Planning can be boring but it's really important". Which resonanted, haha. But the BEST advice was **"Read the ticket. Then re-read the ticket"**. I'll have to keep that in mind. 
+
+We are still looking at UX/UI this week, and we had an overview of visual design pricniples such as heirarchy, balance and colour, an overview of what a UI designer actually does, and Lighthouse, an accessbiity tool built into Chrome. In the PM, my partner Zainab and I worked together on wireframing and eventually creating a high-fidelity design using Miro and Figma. Right before the end of the day, we also looked at tips for CSS organisation (useful!), and the CSS cascade and specificity. 
+
+**Thoughts:** Lots of non-SOC things to do today, and I'm running out of time to do them. Coursework remains great.
+
+**Links:** [School of Math in Miro](https://miro.com/app/board/uXjVO1riJLE=/) | [School of Math in Figma](https://www.figma.com/file/t87ZxSyRvwQy6y7DdvdBE5/WireFrame---School-Of-Math?node-id=0%3A1)
+
+## Day 16: Tuesday 10 May 2022
+
+**Today’s progress:** Still in UX/UI week, and in the AM we had a talk from Javaid Karim and Alex Fairholm of Nester investments. They spoke about the company and the need to create a user interface that also captured complex data to fulfil legislative requirements about financial products. One great piece of advice from Alex was around creating portfolios that not just show your work, but that show the challenges you overcame and how you solved problems. Also today we had a quick overview on user-centred design, and my partner Zainab and I worked on a simple idea for an application process for a maths 'bootcamp' for gifted children. We mapped out a user flow for the application process with a flowchart. 
+
+In the evening, I attended a virtual talk at ConFig (Figma conference) on Designing for Neurodiversity, presented by Treyce Meredith of Dropbox. I found it super fascinating and really appreciated the lessons he offered on the difference between Access and Success, and these three important principles: Be Abundant, Be Forgiving, Be Nurturing.
+
+**Thoughts:** Quite tired today, struggling a little with the work and keeping up with life admin.
+
+**Links:** [xx]() | [xx]()
+
+## Day 15: Monday 9 May 2022
+
+**Today’s progress:** Today at SOC we looked  at Agile and UX/UI concepts, with a talk from Pavaan Buddhdev about the 'magic' of UX/UI: storytelling, attention/misdirection and wonder. Did 'can't unsee' game (silver!)
+
+**Thoughts:** Not actually much coding today, but learning about valuable concepts behind being a software developer :)
+
+**Links:** [Pavaan](https://twitter.com/p44v9n) | [Can't Unsee](https://cantunsee.space/)
+
+## Sunday 8 May 2022
+**No coding:** Brunch at Brickwood w Marley, BBQ with K&J, L&R and Roxanne. Pub quiz in the PM for George's birthday! Far too busy socialising and getting sunshine :sun: to do any code today! 
+
+## Day 14: Saturday 7 May 2022
+
+**Today’s progress:** Today I worked on the SOC w2 recap tasks. I made an interactive shopping list with a Sort button that sorts by the priority of the items on your shopping list. I did spend some time making it look pretty! The recap tasks were fairly easy-ish, i.e. I didn't find them overly challenging, although I did hvae to google a few things, especially manipulating strings. I enjoyed making a random cat picture app :) 
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 13: Friday 5 May 2022
+
+**Today’s progress:** Hackathon day, made a basic Pokedex with the PokeAPI
+
+**Thoughts:** Not as much progress as I would have liked, but still a great outcome and lots of practice with fetching data from APIs.
+
+**Links:** [xx]() | [xx]()
+
+## Day 12: Thursday 4 May 2022
+
+**Today’s progress:** To Fill out
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
 ## Day 11: Wednesday 3 May 2022
 
 **Today’s progress:** Asynchronous code in the AM to fetching from APIs in the PM... I mean, look at us go... Managed to complete the bonus tasks today on the workshop, and pretty happy with that. Learnt of the importance of `await` : ALWAYS AWAIT A PROMISE. We used the [kanye.rest](https://kanye.rest) API to pull some Kanye quotes and put them in a list, while also avoiding duplicates. I felt like the problem wasn't too difficult to solve, and this time I remembered to check if JS already had a method to do the thing I wanted to do (YES - `includes()` exists). 
