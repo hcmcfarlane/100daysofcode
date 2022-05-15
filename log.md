@@ -11,6 +11,36 @@
 **Links:** [xx]() | [xx]()
 -->
 
+## Day 20: Sunday 15 May 2022
+
+**Today’s progress:** Weekend recap tasks today! Starting with a user persona, I made low- and high-fidelty wireframes to design my (eventual) website / portfolio. I decided on a black & white 'almost-brutalist' design with pop art accents.
+
+**Thoughts:** I am quickly realising that wireframes are not a waste of time nor a hassle - they actually do make it much easier to design. I'm not exactly sure why i didn't believe it at first!
+
+**Links:** [Colour palette](https://coolors.co/100e0f-f7d221-efe5e0-db1083-15a7e0) | [Mondrian generator](https://codepen.io/Sanja_kaz/pen/wvyKKqj)
+
+## Saturday 14 May 2022
+
+**No coding:** Had a relaxing day off coding. I played (a lot of) Hearthstone, some Tiny Tina's Wonderlands and did some chores around the house.
+
+## Day 19: Friday 13 May 2022
+
+**Today’s progress:** Hackathon Friday! Putting into practice all we have done this week on idea generation, listening and collaborating, user personas/stories, and low- and high-fidelty wireframes. Zainab and I created a pretty basic website for a language-learning app, but we got an incredible amount of work done in a very short space of time. I also had a good bit of fun playing with CSS positioning of some circles haha.
+
+**Thoughts:** My coding partner and I worked really well together on Friday, encouraging each other, writing – and sticking to – a plan, collaborating to make our ideas even better, and splitting up the work into manageable chunks. 
+
+<!-- **Links:** [xx]() | [xx]() -->
+
+## Day 18: Thursday 12 May 2022
+
+**Today’s progress:** Mindset Thursdays: Idea development and ownership, and good/bad listening. Some good advice from Joe: "Even if it was 'your' idea to begin with, by the end of the project it your team's idea." Positional vs generative approaches to having ideas. Also 'deep listening', plus four different types of bad listeners: Lost, Interrupting, Shrewd and Dramatic. We also had a CSS postioning lesson from Helena on flexbox. Followed by a guest speaker, Olivia Winteringham, past bootcamper now working in UI for Santander. A useful piece of advice from her: "SOC prepares you for 'learning at pace'" – which is a transferrable skill that employers value.
+
+In the afternoon we looked at user personas and user stories in a group of four, and had a presentation at at the end. A useful thing I learned was that UX/UI doesn't necessarily need demographic info like age, ethnicity, marital status, but it's more important to look at behaviours, motivations and attitudes. E.g. how comfortable they are with technology, what they use their devices for, and their frustrations/pain points. 
+
+**Thoughts:** XXX
+
+**Links:** [Hubspot user persona generator](https://www.hubspot.com/make-my-persona) | [Google Jamboard](https://jamboard.google.com/)
+
 ## Day 17: Wednesday 11 May 2022
 
 **Today’s progress:** In the future if I'm looking for my notes on today (Week 3, Day 3 of SOC), then they are in the back section of my first notebook because I had the wrong tab open :) 
