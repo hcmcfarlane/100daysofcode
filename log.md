@@ -11,6 +11,23 @@
 **Links:** [xx]() | [xx]()
 -->
 
+## Day 21: Monday 16 May 2022
+
+**Today’s progress:** This morning I began the effort of coding the website I wireframed yesterday. Didn't get too far, but it'll be an ongoing project. In school we installed node.js (for me, via the nodist version manager) and learned how to use js in the console - very cool, I can see why that's so revolutionary. Met with my week 4 partner Owen B, we both enjoy video games so that was nice. I struggled with getting nvm to work properly, but eventually figured out a solution (copied below for posterity). No idea why it was broken but at least I fixed it...
+
+> solution for `ERR! cb.apply is not a function`
+> (at least, this worked for me, Windows 10)
+> Basically, it seems like something in the graceful-fs module that comes preinstalled with npm was screwy. `npm -v` ran fine, and node runs my code fine, but I wasn’t able to install any new modules from npm (i.e. `npm i chalk` was not working for me)
+> So, I removed it, and replaced it with the current version directly from the author’s github page
+> 1. Delete the module ‘graceful-fs’ from your Nodist install location, i.e. by deleting the folder (actually you may want to first copy/paste it somewhere else just in case). For me it was located at C:\Program Files (x86)\Nodist\npmv\6.9.0\node_modules\graceful-fs
+> 2. Download the repo 'graceful-fs' as a zip file from https://github.com/isaacs/node-graceful-fs
+> 3. Extract the zip file into the node_modules folder as a folder with the name `graceful-fs` (i.e. replace with what you deleted/removed in step 1)
+> 4. Try `npm i chalk` again — at least for me, it's magically now working, with no error message!
+
+**Thoughts:** Looking forward to the week!
+
+**Links:** [Chalk](https://www.npmjs.com/package/chalk) | [Nodist](https://github.com/nullivex/nodist) | [useful micro npm packages](https://github.com/parro-it/awesome-micro-npm-packages)
+
 ## Day 20: Sunday 15 May 2022
 
 **Today’s progress:** Weekend recap tasks today! Starting with a user persona, I made low- and high-fidelty wireframes to design my (eventual) website / portfolio. I decided on a black & white 'almost-brutalist' design with pop art accents.
