@@ -11,6 +11,14 @@
 **Links:** [xx]() | [xx]()
 -->
 
+## Day 22: Tuesday 17 May 2022
+
+**Today’s progress:** Today we learned to use Express + node.js + Nodemon to create a local server and send some data to it! Also learned the difference between the commonjs require and module.exports and the ES6 import/export syntax. I learned how res.send(x) does the same as res.json(x) when x is a js object... at least I think that's what it does! Also about the app.get("/", function(req, res) {res.send("message")}) method to post "message" to the server. 
+
+**Thoughts:** Very confusing start but by the afternoon I felt I really had the measure of it!
+
+**Links:** [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) | [export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) | [module.exports and require](https://nodejs.org/en/knowledge/getting-started/what-is-require/)
+
 ## Day 21: Monday 16 May 2022
 
 **Today’s progress:** This morning I began the effort of coding the website I wireframed yesterday. Didn't get too far, but it'll be an ongoing project. In school we installed node.js (for me, via the nodist version manager) and learned how to use js in the console - very cool, I can see why that's so revolutionary. Met with my week 4 partner Owen B, we both enjoy video games so that was nice. I struggled with getting nvm to work properly, but eventually figured out a solution (copied below for posterity). No idea why it was broken but at least I fixed it...
