@@ -12,6 +12,25 @@
 
 -->
 
+## Day 24: Thursday 19 May 2022
+
+**Today’s progress:** Mindset Thursdays! Self-critique and resilience. I definitely am a perfectionist, one of the self-criticism archetypes we talked about. Joseph's advice was to use that strive to always to better to work on constant improvement rather than achieving "perfection":
+
+-   Set deadlines and stick to them
+-   Pick one thing and set check points for feedback on it
+-   _Leverage your talent_ by using that feedback and learning quickly
+-   **Stretch goal:** release something before you think it's ready
+
+I think this is really good advice and will try to stick to it. We then also had 10 mins prepare, then to present to a small group about something we've learned, I chose RESTful APIs although I don't _really_ know much about them.
+
+On the coding side, we looked at middleware, including loggers, rate-limiting and `express.json()`, an _extremely_ useful middleware that parses json data in POST reqs. We used POSTman to send POST requests to the books data 'app' we've been using this week.
+
+For the afternoon, in a team of four (Owen, Emma K, Simon B and me), we had to research a topic (express rate limiting) and present it to the group at the end of the day.
+
+**Thoughts:** Good day, I felt I really had a handle on the stuff. Joseph's mindset session was useful as always!
+
+**Links:** [npm express-rate-limit](https://www.npmjs.com/package/express-rate-limit)
+
 ## Day 23: Wednesday 18 May 2022
 
 **Today’s progress:** Today we looked at how to use the client's query request (like `localhost:3000/books?title=night`) to send back the data for the books with 'night' in the title. I could see straight away how this relates to search buttons, which is cool. We also looked at what a RESTful API is.
