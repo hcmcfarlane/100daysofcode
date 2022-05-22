@@ -12,6 +12,26 @@
 
 -->
 
+## Day 26: Sunday 22 May 2022
+
+**Today’s progress:** Week 4 recap task. This task was fairly easy, as it was basically a replica of what we did during the week except with a database of users rather than recipes or books. Still, it was useful to cement my knowledge of all the CRUD-type request syntaxes, and ensure that I fully understood everything that we did during the week. I implemented one nifty thing I didn't do this week - when the client tries to update a user via a PUT request, I wrote some code to ensure that the user ID cannot be overridden. I mean it was only one line of code but I felt smart for doing that. I am considering adding some even better sanitizing/error-handling features tomorrow morning before school starts at 11.
+
+**Thoughts:** Confident!
+
+**Links:** [xx]() | [xx]()
+
+## Saturday 21 May 2022
+
+**Today’s progress:** No coding today. Spent time with friends, relaxed, and had a kind of average pho. We went to play some retro games at the Science Museum and I got to bed early :)
+
+## Day 25: Friday 20 May 2022
+
+**Today’s progress:** "Hackathon" day as per usual for Fridays! A really good day - my partner and I managed to get through the main tasks of setting up our node express handlers for GET (all recipes), GET (recipe by id), POST, PUT and DELETE. We were able to get the form on the HTML page (which was given to us) to display, and even automatically give each new recipe an id number. It was a great day and we worked well together. In the evening after school I had my mentor meeting with Mark, which was great as usual - I asked him about the sorts of uses for the API that his company provides and we talked about what back-end engineering is, as well as briefly on how to have ideas.
+
+**Thoughts:** Think I am getting the hang of this back-end stuff. It was a good week in general, really - in no small part perhaps due to not doing any freelance work the last two weeks, which has freed up my time on the weekends to actually relax and prepare for the week ahead.
+
+**Links:** [xx]()
+
 ## Day 24: Thursday 19 May 2022
 
 **Today’s progress:** Mindset Thursdays! Self-critique and resilience. I definitely am a perfectionist, one of the self-criticism archetypes we talked about. Joseph's advice was to use that strive to always to better to work on constant improvement rather than achieving "perfection":
