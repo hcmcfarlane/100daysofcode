@@ -12,6 +12,14 @@
 
 -->
 
+## Day 27: Monday 23 May 2022
+
+**Today’s progress:** Intro to SQL! I'm having some weird flashbacks to my first year of uni (2007!) when I took an intro to information technology class. We must have done some SQL stuff then because I vaguely remebered the syntax. Great day, with a good talk from Kyle Simpson, author of _You Don't Know JS_, who offered some good advice on applying for jobs where you don't meet 100% of the criteria, ensuring that the web is made accessible, and about leaving things better than you found it, for the benefit of the next generation of programmers. Some of his diversity/accessibility stuff was good, some of it was not that great. Overall though, he was an engaging speaker.
+
+**Thoughts:** Looking forward to SQL week, and figuring out how this links to JS!
+
+**Links:** [intro to SQL - DB-fiddle](https://www.db-fiddle.com/f/dg2RJvBX1aZda3ECwQUSoe/4) | [Relevant XKCD - Query](https://xkcd.com/1409/) | [SQL on w3 schools](https://www.w3schools.com/sql/default.asp) | [Kyle Simpson – "Keep Betting on Javascript"](https://www.youtube.com/watch?v=51QNMy9MlZY) – 2019 youtube talk
+
 ## Day 26: Sunday 22 May 2022
 
 **Today’s progress:** Week 4 recap task. This task was fairly easy, as it was basically a replica of what we did during the week except with a database of users rather than recipes or books. Still, it was useful to cement my knowledge of all the CRUD-type request syntaxes, and ensure that I fully understood everything that we did during the week. I implemented one nifty thing I didn't do this week - when the client tries to update a user via a PUT request, I wrote some code to ensure that the user ID cannot be overridden. I mean it was only one line of code but I felt smart for doing that. I am considering adding some even better sanitizing/error-handling features tomorrow morning before school starts at 11.
