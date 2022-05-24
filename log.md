@@ -12,6 +12,20 @@
 
 -->
 
+## Day 28: Tuesday 24 May 2022
+
+**Today’s progress:** More on SQL today – in particular, the last of the CRUD operations, DELETE, and INNER JOIN and the different possible types of JOINs. I also looked at some useful SQL functions (see link), and Jay and I did some SQL codewars.
+
+After lunch, my carbon monoxide alarm went off, and I smelled gas in the kitchen. I called the fire brigade immediately, who couldn't actually find anything wrong – concluding that the CO alarm was faulty. Fortunately though, 999 had also sent out a gas man from SGN, whose CO alarm quite dramatically started blaring as I walked him into the kitchen. He realised that the flue on the boiler was dislodged, and was spewing gas everywhere. **_PANIC TIME_**.
+
+We rushed around to open up all the windows and clear the house before we died. He switched off the gas and condemned the boiler on the spot, also kindly giving us a portable stovetop and some heaters to tide us over. He was very concerned and told me probably _too many_ times how I nearly died, or could have died overnight. The landlord has been contacted and we are hopefully getting a new boiler tomorrow. Meanwhile, no hot water... Will try to make up some time this eve. I think today I deserve a takeaway for dinner...
+
+So that was quite the interruption to my SQL learning today haha.
+
+**Thoughts:** Nearly died today so thoughts are mostly adrenaline!
+
+**Links:** [SQL Bolt](https://sqlbolt.com/) | [DB Fiddle - joins test env](https://www.db-fiddle.com/f/4FJEKAFU4SS5uECGdLeXgM/0) | [18 important SQL fns](https://learnsql.com/blog/18-important-sql-functions-learn-2018/)
+
 ## Day 27: Monday 23 May 2022
 
 **Today’s progress:** Intro to SQL! I'm having some weird flashbacks to my first year of uni (2007!) when I took an intro to information technology class. We must have done some SQL stuff then because I vaguely remebered the syntax. Great day, with a good talk from Kyle Simpson, author of _You Don't Know JS_, who offered some good advice on applying for jobs where you don't meet 100% of the criteria, ensuring that the web is made accessible, and about leaving things better than you found it, for the benefit of the next generation of programmers. Some of his diversity/accessibility stuff was good, some of it was not that great. Overall though, he was an engaging speaker.
