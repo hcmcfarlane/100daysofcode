@@ -12,6 +12,20 @@
 
 -->
 
+## Day 29: Wednesday 25 May 2022
+
+**Today’s progress:** Today we linked our app to a Heroku db using the node package `pg` and `const pool = new pg.Pool()`, which creates a connection pool. The links (e.g. username, password, host, port) are stored in a (gitignored!) file called `.env`, and we used a node package called `dotenv` to make them accessible to our pool using `process.env.PGUSER` and so on.
+
+Then we made a query function that allows us to send SQL queries to that Heroku db:
+
+> `function query(text, params, callback) { return pool.query(text, params, callback); }`
+
+That meant we could use code like `const res = await query(sqlString)`, where `sqlString` is the SQL query we want to send – meaning we can create a table on the Heroku server and populate it with data from a file. All quite exciting
+
+**Thoughts:** Pretty fast pace today and lots of people seemed pretty confused. There were quite a lot of concepts thrown at us, but I'm feling fine with those concepts just sitting there for now and being secure in the knowledge that we'll be practicing them so much that it will all fall into place.
+
+**Links:** [xx]() | [xx]()
+
 ## Day 28: Tuesday 24 May 2022
 
 **Today’s progress:** More on SQL today – in particular, the last of the CRUD operations, DELETE, and INNER JOIN and the different possible types of JOINs. I also looked at some useful SQL functions (see link), and Jay and I did some SQL codewars.
