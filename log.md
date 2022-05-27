@@ -12,6 +12,22 @@
 
 -->
 
+## Day 31: Friday 27 May 2022
+
+**Today’s progress:** Hackathon Friday! Making a full-stack API. Jay and I managed to get the front-end linked up and reading from our Heroku db, which felt pretty amazing. Had my mentor meeting this afternoon too, and Mark gave me some incredible ideas for fun things to do with the data.
+
+**Thoughts:** Great day! Looking forward to the recap task over the weekend.
+
+**Links:** [Mockaroo - db generator](https://www.mockaroo.com/)
+
+## Day 30: Thursday 26 May 2022
+
+**Today’s progress:** Mostly a recap of yesterday's concepts. I practiced some more complex PostgreSQL statements in the evening. My friend Rish from Australia had a layover in London and he generously popped over for lunch – it was amazing to see him!
+
+**Thoughts:** Pretty good day, revisiting the concepts we looked at on Wed.
+
+**Links:** [PG Exercises](https://pgexercises.com/)
+
 ## Day 29: Wednesday 25 May 2022
 
 **Today’s progress:** Today we linked our app to a Heroku db using the node package `pg` and `const pool = new pg.Pool()`, which creates a connection pool. The links (e.g. username, password, host, port) are stored in a (gitignored!) file called `.env`, and we used a node package called `dotenv` to make them accessible to our pool using `process.env.PGUSER` and so on.
