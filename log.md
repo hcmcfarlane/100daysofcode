@@ -12,6 +12,24 @@
 
 -->
 
+## Day 33: Monday 30 May 2022
+
+**Today’s progress:** Started on testing today with Jest.
+
+**Thoughts:** Seems straightforward, it will only get worse I imagine.
+
+**Links:** [Jest docs](https://www.npmjs.com/package/jest)
+
+## Sunday 29 May 2022
+
+**Today’s progress:** No coding today as I was working.
+
+## Day 32: Saturday 28 May 2022
+
+**Today’s progress:** Week 5 recap task on a cats API and meeting up with some of the London SOC cohort :) An absolutely amazing evening
+
+**Thoughts:** Love meeting people in real life, it gives me a real boost
+
 ## Day 31: Friday 27 May 2022
 
 **Today’s progress:** Hackathon Friday! Making a full-stack API. Jay and I managed to get the front-end linked up and reading from our Heroku db, which felt pretty amazing. Had my mentor meeting this afternoon too, and Mark gave me some incredible ideas for fun things to do with the data.
