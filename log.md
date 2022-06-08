@@ -12,6 +12,52 @@
 
 -->
 
+## Day 40: Wednesday 8 June 2022
+
+**Today’s progress:** Have caught up on sleep now, so feeling a lot better and ready for more React! Today I also had my enablement coach meeting, where I got some amazing feedback, which really boosted me. Today we started on state changes with React and it seems to have sunk in! Made a fun little project in the workshop that took in some text and printed it out in different fonts. JSX is starting to come together, although I'm confused as to why style changes need so many damn braces haha. Also tried to do some more of the FreeCodeCamp responsive web design course. Want to finish the first three before I get a job... We'll see! I also tried the first code challenge on the React docs Learn page on states.
+
+**Thoughts:** It's all coming together now... Sooon...
+
+**Links:** [React State](https://beta.reactjs.org/learn/state-a-components-memory) | [xx]()
+
+## Day 39: Tuesday 7 June 2022
+
+**Today’s progress:** Didn't get much sleep last night, as my flight home from Tenerife was delayed. Muddled through a bit! Morning we had a guest talk from Nick Truby from BT who showed us how he works with React in his day-to-day job. More on React – today delving into JSX, what Babel is, and how to have child elements in React. Then we spun up React apps using `npx create-react-app` (CRA) rather than the CDN, although mine didn't work as nodist still doesn't have support for updated version of npx. We also learned about the conventional ways to structure a React app, with components in subfolders and so on.
+
+**Thoughts:** Tired, but really enjoying learning React.
+
+**Links:** [CRA](https://create-react-app.dev/)
+
+## Day 38: Monday 6 June 2022
+
+**Today’s progress:** Did school from the hotel lobby today :) Intro to React! Fab guest talk in the AM from Piper Bates about their work and their journey from bootcamper to developer. In the PM we learnt about how React is a library, not a framework, and how it reacts to DOM changes using the virtual DOM, how it contains easily reusable components, and what those components look like. We initially used React from a CDN, and used `React.createElement` and props to create some functional components.
+
+**Thoughts:** Hooray!
+
+**Links:** [React docs](https://reactjs.org/) | [Beta React docs](https://beta.reactjs.org/) (written with hooks) | [Piper Bates](https://twitter.com/ProgrammerPiper)
+
+## Days 36, 37 Thursday 2 June–Sunday 5 June 2022
+
+**Today’s progress:** On holidays over the Queen's Jubilee bank holiday, so I only did a few hours coding over the long weekend. I worked on the week 6 weekend recap task, did some more practice with Cypress and supertest, and read/watched a few blogs and videos on React in preparation for Weeks 7–8!
+
+**Thoughts:** Really excited to get into React. Also extremely relaxed from lying in the sun most days.
+
+**Links:** [Fireship - React in 100 seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+
+## Day 35: Wednesday 1 June 2022
+
+**Today’s progress:** Testing with supertest and Cypress.
+
+**Links:** [Supertest docs](https://www.npmjs.com/package/supertest)
+
+## Day 34: Tuesday 31 May 2022
+
+**Today’s progress:** Recap of Jest and the importance of test-driven development. Guest talk in the arvo on intro to testing with Cypress: Jordan Powell and Robert Guss. Extremely generous with their time today, we had a very comprehensive session with plenty of time for questions.
+
+**Thoughts:** I hope we get to try out Cypress ourselves tomorrow.
+
+**Links:** [Cypress docs](https://docs.cypress.io/) | [TDD video from Fireship](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+
 ## Day 33: Monday 30 May 2022
 
 **Today’s progress:** Started on testing today with Jest.
