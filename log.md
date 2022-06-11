@@ -12,6 +12,30 @@
 
 -->
 
+## Day 43: Saturday 11 June 2022
+
+**Today’s progress:** Made some changes to the hackathon holiday destinations list today. Added a 'Sort alphabetically' button, as a challenge issued to me yesterday by my mentor. Was slightly too easy actually, just needed a new function with `setArray([...array].sort())`. The sort method automatically sorts alphabetically so it was quite straightforward. The other challenge was to be able to manually reorder the items in the list with arrow buttons or a drag and drop.
+
+**Thoughts:** Extremely tired today as I went out last night! But feeling better as I had some water and did some coding :)
+
+**Links:** [Sort method MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+
+## Day 42: Friday 10 June 2022
+
+**Today’s progress:** React-a-thon Today! Raj and I made a 'to-do list'-style app that was actually a list of holiday destinations. Mentor meeting after school and Mark has given me homework to do 😂
+
+**Thoughts:** It was awesome and I'm really proud of how much we got done
+
+**Links:** [W7 React Hackathon](https://github.com/hcmcfarlane/w7d5-fork-hackathon_react-athon-hannah-and-rajesh)
+
+## Day 41: Thursday 9 June 2022
+
+**Today’s progress:** Trenton Moss from Team Sterka did the mindset session today (sort of a mini Insights Discovery). He introduced us to his 'Platinum Rule' : Treat others as _they_ wish to be treated. Great advice tbh. We learned about the spread operator, how to spread nested objects (etc) and the importance of immutability in React. The workshop in the afternoon was about using the spread operator to add, remove and replace data in arrays in objects. 🎵 _Spread and slice makes everything nice!_ 🎵
+
+**Thoughts:** Looking forward to the hackathon!
+
+**Links:** [Spread syntax - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
 ## Day 40: Wednesday 8 June 2022
 
 **Today’s progress:** Have caught up on sleep now, so feeling a lot better and ready for more React! Today I also had my enablement coach meeting, where I got some amazing feedback, which really boosted me. Today we started on state changes with React and it seems to have sunk in! Made a fun little project in the workshop that took in some text and printed it out in different fonts. JSX is starting to come together, although I'm confused as to why style changes need so many damn braces haha. Also tried to do some more of the FreeCodeCamp responsive web design course. Want to finish the first three before I get a job... We'll see! I also tried the first code challenge on the React docs Learn page on states.
