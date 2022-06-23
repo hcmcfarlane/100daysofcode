@@ -12,13 +12,45 @@
 
 -->
 
+## Day ???: Thursday 23 June 2022
+
+**Today’s progress:**
+
+## Day ???: Wednesday 22 June 2022
+
+**Today’s progress:** More project week :) I continued to work on the front end today, finishing the folio display list. We also got the front and back ends linked up and successfully talking to each other. Then Ben and I worked on adding search and filter functionality, as well as a reset button that clears the search/filtering. Tom and Idman worked on the upload form for posting new folios to the db and displaying them.
+
+## Day ???: Tuesday 21 June 2022
+
+**Today’s progress:** Second day of project week! Idman and I worked on the front end today and have a skeleton of an app sketched out, with which components will be used and where. Ben and Tom have been working on the back-end database, setting up the routes and CRUD ops. I created cards for the folios and the beginnings of a display grid that takes in data from the backend to display the individual folios.
+
+## Day 45: Monday 13 June 2022
+
+**Today’s progress:** Week 8 of school and new partner is Lorentz! Today we are learning about pure functions in React and the important of purity so that React works. In the morning I managed to get my blog page from the recap task working with an 'Add comment' function. In the afternoon we looked at `useEffect` and its uses and limitations.
+
+**Thoughts:** Realised that the way I did my form (ahem...`getElementById`) was Not Good, lol. Probably should rework it. The best way seems to be to save states for the diff values needed from the field. See link that Afam sent
+
+**Links:** [React docs Beta - Pure components - Challenges](https://beta.reactjs.org/learn/keeping-components-pure#challenges) | [React form onSubmit handler](https://epicreact.dev/how-to-type-a-react-form-on-submit-handler/)
+
+## Day 44: Sunday 12 June 2022
+
+**Today’s progress:** Worked on the w7 recap tasks and have set up a blog with comments using React. So far, it's completely static - next step is to be able to add comments and have React update the page automagically.
+
+For the destination list that was from Friday's hackathon, I managed to figure out the edge cases of the first and last arrow buttons (OK... just by setting `visibility: hidden` lol)
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
 ## Day 43: Saturday 11 June 2022
 
 **Today’s progress:** Made some changes to the hackathon holiday destinations list today. Added a 'Sort alphabetically' button, as a challenge issued to me yesterday by my mentor. Was slightly too easy actually, just needed a new function with `setArray([...array].sort())`. The sort method automatically sorts alphabetically so it was quite straightforward. The other challenge was to be able to manually reorder the items in the list with arrow buttons or a drag and drop.
 
+_Updated a few hours later..._ Spent absolutely ages getting Font Awesome to work in React but it works :D I've now added sort buttons, but haven't addressed the edge cases of the top and bottom items in the list. Tomorrow!
+
 **Thoughts:** Extremely tired today as I went out last night! But feeling better as I had some water and did some coding :)
 
-**Links:** [Sort method MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+**Links:** [Sort method MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) | [Font Awesome in React](https://fontawesome.com/v5/docs/web/use-with/react#using-icons)
 
 ## Day 42: Friday 10 June 2022
 
