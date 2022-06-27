@@ -12,17 +12,79 @@
 
 -->
 
-## Day ???: Thursday 23 June 2022
+## Day 57: Monday 27 June 2022
 
-**Today’s progress:**
+**Today’s progress:** Week 10! This morning we had a team retro, which went pretty damn fantastically. We really worked great together as a team, and we had a lot of positive feedback for each other. Apparently this week we are doing deployment as well, which will be cool.
 
-## Day ???: Wednesday 22 June 2022
+**Thoughts:** XXX
+
+**Links:** [Project retro on Trello](https://trello.com/b/uVUIHpNi/week-9-project-retrospectives) | [Atlassian Play Book - Retros](https://www.atlassian.com/team-playbook/plays/retrospective)
+
+## Day XX: Sunday 26 June 2022
+
+No coding today
+
+## Day 56: Saturday 25 June 2022
+
+**Today’s progress:** Today I started on my journey to learn Ruby, via Codecademy. I tried to teach myself about a decade ago (_ahhhh!_), so I don't really remember anything. It's fairly straightforward so far, it'll just be getting the hang of syntax and a few other differences between it and JS (e.g. immutable methods).
+
+**Thoughts:** `elsif` is very annoying :D
+
+**Links:** [Codecademy - Learn Ruby](https://www.codecademy.com/courses/learn-ruby)
+
+## Day 55: Friday 24 June 2022
+
+**Today’s progress:** Presentation day! We finished most things on the app on Thursday afternoon, although Ben and Tom worked on getting the Upload form to not just take in new data but also display it on the app immediately. Which fortunately went really well, no dramas! We spent the morning working on the presentation, then after lunch practiced it a few times before presenting around 3.30pm. It was quite nerve-wracking going last, as we (OK, me) had a lot of downtime before the judges arrived in which to get nervous. But, the presentation went well. Tom's mentor's suggestion of appointing someone as the facilitator of questions was an amazing idea, and I think I handled the role pretty well, giving the others time to think before either answering myself or handing over to someone to answer it.
+
+**Thoughts:** Our team worked amazingly together. Here was my short final reflection on the week
+
+> I’d like to echo how well we worked together – we came together to make decisions so that nothing was really decided in a vacuum. For me, even though I spent time on learning new things and going outside my comfort zone, in some ways I stuck to my strengths on this project, and in future I think I should try to work on aspects I am less confident with.
+
+## Day 54: Thursday 23 June 2022
+
+**Today’s progress:** Today I worked on some styling for our app, including some cool bubble animations for the Go buttons, and started/finished the slide-out menu for the upload form. Troubleshot some CSS problems.
+
+## Day 53: Wednesday 22 June 2022
 
 **Today’s progress:** More project week :) I continued to work on the front end today, finishing the folio display list. We also got the front and back ends linked up and successfully talking to each other. Then Ben and I worked on adding search and filter functionality, as well as a reset button that clears the search/filtering. Tom and Idman worked on the upload form for posting new folios to the db and displaying them.
 
-## Day ???: Tuesday 21 June 2022
+## Day 52: Tuesday 21 June 2022
 
-**Today’s progress:** Second day of project week! Idman and I worked on the front end today and have a skeleton of an app sketched out, with which components will be used and where. Ben and Tom have been working on the back-end database, setting up the routes and CRUD ops. I created cards for the folios and the beginnings of a display grid that takes in data from the backend to display the individual folios.
+**Today’s progress:** Second day of project week! Idman and I worked on the front end today and have a skeleton of an app sketched out, with which components will be used and where. Ben and Tom have been working on the back-end database, setting up the routes and CRUD ops. I created cards for the folios and the beginnings of a display grid that takes in data from the backend to display the individual folios. I also created some logos and set up brand colours.
+
+## Day 51: Monday 20 June 2022
+
+**Today’s progress:** Project week! Idman, Ben, Tom and I used the whole creation process we've been through in the course – Disney ideation, jamboards, Miro wireframes and planning. Tom and I split off to create a questionnaire for other bootcampers that would help inform the requirements of our project.
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 50: Sunday 19 June 2022
+
+**Today’s progress:** Worked on the week 8 recap task ("practice anything you think you need a refresher on") by attempting to use another API to make a website, similar to the hackathon project that Lorentz and I had done. Unfortunately it seems I used an API that I couldn't access – or at least, couldn't figure out how to access! (I have since realised that the API link no longer resolves, so I guess it was never being maintained - so probably not my fault!!) Watched some vidoes and practiced some troubleshooting, plus now I'm really quick at spinning up `create-react-app` lol.
+
+**Links:** [National Museum of Australia - Convict Love Tokens](http://love-tokens.nma.gov.au/api)
+
+## Day XX: Saturday 18 June 2022
+
+Day off coding
+
+## Day 49: Friday 17 June 2022
+
+**Today’s progress:** _(filled out later)_ Hackathon Friday! Lorentz and I used the Cocktail API to make a React app that loaded a Margarita cocktail on page load and had a search function that displayed all cocktails with that name in. We used the list mapping method shown earlier in the week. And I ofc made it look pretty :) Great week.
+
+## Day 48: Thursday 16 June 2022
+
+**Today’s progress:** _(filled out later)_ **_WATCH VIDEOS_** (Notes in wrong place of notebook 1) Git branching reminder and practice. Guest talk: Talis, Nadeem and a cospeaker. On HTML verbs and RESTful APIs. I found it very difficult to concentrate. Something about mapping over arrays in the last part of the day, maybe?
+
+## Day 47: Wednesday 15 June 2022
+
+**Today’s progress:** _(filled out later)_ **_WATCH VIDEOS_** A talk from Mark and Haley at Experian. I asked a question about their gender diversity at senior leadership levels and their diversity and inclusion policies. This set off a whole bloody stressful thing, finding out that some people in the course do not share similar values (or, at least, have chosen ignorance). Afternoon was React testing, which I probably need to go over sometime...My tests were inexplicably failing to run!
+
+## Day 46: Tuesday 14 June 2022
+
+**Today’s progress:** _(filled out later)_ Some computer sci theory in the morning, learning about the finite state machine, which naturally led into an intro to `useReducer`. `useReducer` can handle multiple difference states that you access via (e.g.) `select` statements in the reducer function.
 
 ## Day 45: Monday 13 June 2022
 
