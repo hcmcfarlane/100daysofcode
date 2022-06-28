@@ -12,13 +12,29 @@
 
 -->
 
-## Day 57: Monday 27 June 2022
+## Day 58: Tuesday 28 June 2022
 
-**Today’s progress:** Week 10! This morning we had a team retro, which went pretty damn fantastically. We really worked great together as a team, and we had a lot of positive feedback for each other. Apparently this week we are doing deployment as well, which will be cool.
+**Today’s progress:** Codewars: baby shark lyrics generator. How to write documentation. Then writing documentation for our project. Idman and I also manged to get a new test up and running, but not before breaking some other tests lol. Here is some useful code that should help avoid the ECONNREFUSED error:
+
+```
+if (process.env.NODE_ENV != "test") {
+	app.listen(PORT, () => {
+		console.log(`listening on port ${PORT}`);
+	});
+}
+```
 
 **Thoughts:** XXX
 
-**Links:** [Project retro on Trello](https://trello.com/b/uVUIHpNi/week-9-project-retrospectives) | [Atlassian Play Book - Retros](https://www.atlassian.com/team-playbook/plays/retrospective)
+**Links:** [Codewars - Baby shark lyrics](https://www.codewars.com/kata/5d076515e102162ac0dc514e/train/javascript) | [readme.so](https://readme.so/editor)
+
+## Day 57: Monday 27 June 2022
+
+**Today’s progress:** Week 10! This morning we had a team retro, which went pretty damn fantastically. We really worked great together as a team, and we had a lot of positive feedback for each other. Apparently this week we are doing deployment as well, which will be cool. IN the afternoon we practiced code reviews by looking at the code for Team Bruh's project, Wack.
+
+**Thoughts:** XXX
+
+**Links:** [Project retro on Trello](https://trello.com/b/uVUIHpNi/week-9-project-retrospectives) | [Atlassian Play Book - Retros](https://www.atlassian.com/team-playbook/plays/retrospective) | [Code reviews video (37mins)](https://www.youtube.com/watch?v=PJjmw9TRB7s) | [Team Bruh: Wack](https://sage-unicorn-717860.netlify.app/)
 
 ## Day XX: Sunday 26 June 2022
 
@@ -491,3 +507,7 @@ In the evening, I attended a virtual talk at ConFig (Figma conference) on Design
 **Thoughts:** Very easy, made me feel smart :joy:
 
 **Link to work:** [FreeCodeCamp - Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+```
+
+```
