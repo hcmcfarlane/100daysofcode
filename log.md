@@ -12,6 +12,43 @@
 
 -->
 
+## Day 59: Sunday 3 July 2022
+
+**Today’s progress:** Catching up on Week 10 as I missed most of last week due to covid :( Thursday in class was an intro to Auth0 and a workshop. Today I've been watching a bunch of introductory youtube videos on authentication and authorization, in preparation for having a crack at the workshop.
+
+**Thoughts:** XXX
+
+**Links:**
+
+Auth0
+
+-   [Authentication](https://www.youtube.com/watch?v=tZPENgB_Rd0)
+-   [Authorisation](https://www.youtube.com/watch?v=gnZo3BJgjpI)
+-   [Auth vs explained](https://www.youtube.com/watch?v=2iTTBJd46ow)
+-   [Authentication vs authorisation](https://www.youtube.com/watch?v=85BBfKo6bdo)
+
+Other
+
+-   **Hi! My name is...**, talk by James Bennet (27m) on the problems with usernames as unique identifiers, potential security risks, and some nerdy Unicode stuff https://www.youtube.com/watch?v=NIebelIpdYk
+-   **User names to reserve**: more on malicious/security-risk usernames, ~10min read https://ldpreload.com/blog/names-to-reserve
+-   **The Tripartite Identity Pattern**: better ways of using usernames, logins and public IDs, ~8min read http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/
+
+### Day XX Saturday 2 July 2022
+
+COVID
+
+### Day XX Friday 1 July 2022
+
+COVID
+
+### Day XX Thursday 30 June 2022
+
+COVID
+
+### Day XX Wednesday 29 June 2022
+
+COVID
+
 ## Day 58: Tuesday 28 June 2022
 
 **Today’s progress:** Codewars: baby shark lyrics generator. How to write documentation. Then writing documentation for our project. Idman and I also manged to get a new test up and running, but not before breaking some other tests lol. Here is some useful code that should help avoid the ECONNREFUSED error:
