@@ -20,6 +20,8 @@ We managed to get the deployments working fairly easily, then created a delete r
 
 In the afternoon we began on adding user login functionality with the aim of making individual shopping lists for a logged-in user. We managed to capture the userID and make it available to do fetch requests with it, but didn't quite finish it off. Hopefully we will be able to continue on this tomorrow and get it working!
 
+Another thing we learned today is that if you designate a HTTP status code of 204 (No Content), then browsers will actually strip out the response body to make it compatible!
+
 **Thoughts:** It's very much coming together, today was another very satisfying day.
 
 **Links:** [Back](https://w11-shoppinglist.herokuapp.com/items) | [Front](https://courageous-kashata-489ed5.netlify.app/) | [Free for Devs](https://free-for.dev/#/)
