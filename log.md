@@ -12,11 +12,31 @@
 
 -->
 
+## Day 61: Tuesday 5 July 2022
+
+**Today’s progress:** Today we again deployed a front-end to Netlify, but also added in a back-end that's hosted on Heroku. It was a simple shopping list app, and we were given much free reign to basically test out anything we wanted to practice.
+
+We managed to get the deployments working fairly easily, then created a delete route on the back end and a delete button on the front that talked to each other. Pro tip: re-deploy or reset the app after changing environment variables!!
+
+In the afternoon we began on adding user login functionality with the aim of making individual shopping lists for a logged-in user. We managed to capture the userID and make it available to do fetch requests with it, but didn't quite finish it off. Hopefully we will be able to continue on this tomorrow and get it working!
+
+**Thoughts:** It's very much coming together, today was another very satisfying day.
+
+**Links:** [Back](https://w11-shoppinglist.herokuapp.com/items) | [Front](https://courageous-kashata-489ed5.netlify.app/) | [Free for Devs](https://free-for.dev/#/)
+
+## Day 60: Monday 4 July 2022
+
+**Today’s progress:** Week 11 of SOC and paired with Noah this week :) Today we did deployment for front-end apps using Netlify. Started by reading the docs on Netlify and understanding what it's supposed to do, including topics like forms, environment variables, serverless functions and Netlify identify. I also first heard the term 'Jamstack', which seems to be basically everything we've been learning so far. Spun up a super basic React app with CRA, deployed to Netlify, and then added a form that automatically sends the data to the Netlify dashboard.
+
+**Thoughts:** Extremely satisfying day!
+
+**Links:** [Implement Netlify Forms in React App - The CORRECT Way](https://www.youtube.com/watch?v=vCaSywNc9wQ) | [Netlify docs](https://docs.netlify.com/) | [Frabjous Kashata](https://frabjous-kashata-3d530f.netlify.app/)
+
 ## Day 59: Sunday 3 July 2022
 
-**Today’s progress:** Catching up on Week 10 as I missed most of last week due to covid :( Thursday in class was an intro to Auth0 and a workshop. Today I've been watching a bunch of introductory youtube videos on authentication and authorization, in preparation for having a crack at the workshop.
+**Today’s progress:** Catching up on Week 10 as I missed most of last week due to covid :( Thursday in class was an intro to Auth0 and a workshop. Today I've been watching a bunch of introductory youtube videos on authentication and authorization, in preparation for having a crack at the workshop. Ok so I got part 1 of the workshop working, enabling a user to log in and out and displaying the user's metadata so that was something.
 
-**Thoughts:** XXX
+**Thoughts:** Difficult to catch up when the workshop's instructions were so vague and I don't know what I missed in class.
 
 **Links:**
 
