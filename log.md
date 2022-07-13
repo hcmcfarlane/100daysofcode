@@ -12,6 +12,64 @@
 
 -->
 
+## Day 67: Wednesday 13 July 2022
+
+**Today’s progress:** Introduction to Typescript today. We started off the day looking at all the random type casting that JS does in operations between different types, which was very silly. Then watched a couple of videos on TS and completed some exercises, including converting an existing simple rock, paper scissors game in JS to TS. Managed to complete the task although I think we weren't 100% understanding _how_ exactly we were solving the errors! Finally, a very brief explanation of `enums` which I'm not sure I get yet!
+
+**Thoughts:** TS looks complex but maybe not that difficult to learn. It's still too effing hot to think.
+
+**Links:** [WAT](https://www.destroyallsoftware.com/talks/wat) | [JS type coercion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/) | [JS is weird quiz](https://jsisweird.com/) | [Fireship - TS in 100s](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
+
+## Day 66: Tuesday 12 July 2022
+
+**Today’s progress:** Today we had most of the day to work on our portfolio pages. The design of mine is coming along nicely, although I haven't even begun to start on any features or functionality.
+
+**Thoughts:** Extremely hot again today, and difficult to concentrate. It was nice to have a fancy design to show for my work today, even if it's completely static with lorem ipsum so far :D Too hot.
+
+## Day 65: Monday 11 July 2022
+
+**Today’s progress:** Paired with Patryk this week. Today we delved into some component libraries, and had a mini hackathon in the afternoon where we used Chakra UI to make a simple and silly useless app.
+
+**Thoughts:** I was feeling a bit down today, but I found using a brand-new library quite intuitive and that helped with my confidence a lot.
+
+**Links:** [Chakra UI](https://chakra-ui.com/getting-started) | [xx]()
+
+### Day XX: Sunday 10 July 2022
+
+No coding today
+
+### Day XX: Saturday 9 July 2022
+
+No coding today
+
+## Day 64: Friday 8 July 2022
+
+**Today’s progress:** Hackathon
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 63: Thursday 7 July 2022
+
+**Today’s progress:** XXX
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 62: Wednesday 6 July 2022
+
+**Today’s progress:** First task in the morning was to research Context and useContext, and create a 'tutorial' of some kind to introduce these topics (and get some practice explaining props and state as well as context). Noah and I went a bit mad making a diagram in React that could demonstrate the difference between prop drilling and useContext.
+
+Today I learned that the problem with the error message "Failed to execute 'createElement' on 'Document': The tag name provided ('/static/media/PrFinalHeading.c0bd52abd056fe6e295b') is not a valid name." is that you've failed to add `.js` to the end of the filename of a component!
+
+In the afternoon we looked at custom hooks and how to use them to make your App.js files look nicer. I'm not sure I 100% get the concept of it, even though we were able to get them working!
+
+**Thoughts:** First I was like "What" then I was like "Ohh". Then I was like "What" and now I'm at "What just happened?"
+
+**Links:** [Composing react hooks](https://ziffur.com/article/composing_with_react_hooks) | [Custom hooks](https://www.youtube.com/watch?v=Jl4q2cccwf0) | [usehooks.com](https://usehooks.com/)
+
 ## Day 61: Tuesday 5 July 2022
 
 **Today’s progress:** Today we again deployed a front-end to Netlify, but also added in a back-end that's hosted on Heroku. It was a simple shopping list app, and we were given much free reign to basically test out anything we wanted to practice.
