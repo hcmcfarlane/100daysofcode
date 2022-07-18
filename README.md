@@ -1,6 +1,6 @@
 # Hello
 
-This is my #100DaysOfCode log. It mostly details my journey through the School of Code bootcamp and beyond—from the beginnings of HTML, CSS and basic Javascript, to becoming a pretty OK junior full-stack web developer. From being able to create simple static webpages (such as my first [tribute page](https://hcmcfarlane.github.io/tributepage/), I can now design, implement and deploy back ends (some buzzwords: Express, RESTful APIs, Heroku, PostgreSQL, Couchbase, GraphQL, Jest, Supertest), *AND* front ends (with React, Typescript, a plethora of UI libraries,  Cypress testing, Netlify, AWS). 
+This is my #100DaysOfCode log. It mostly details my journey through the School of Code bootcamp and beyond—from the beginnings of HTML, CSS and basic Javascript, to becoming a pretty OK junior full-stack web developer. From being able to create simple static webpages (such as my first [tribute page](https://hcmcfarlane.github.io/tributepage/)), I can now design, implement and deploy back ends (some buzzwords: Express, RESTful APIs, Heroku, PostgreSQL, Couchbase, GraphQL, Jest, Supertest), *AND* front ends (with React, Typescript, a plethora of UI libraries,  Cypress testing, Netlify, AWS). 
 
 Check out [my portfolio](https://hannahmcfarlane.co.uk) to see what I can do in a slightly more exciting format than markdown.
 
