@@ -12,6 +12,60 @@
 
 -->
 
+## Day 73: Thursday 21 July 2022
+
+**Today’s progress:** Today in Status 418 we created a plan for psychological safety and began some market research. With Robert and Cai, I developed some user stories and turned those into user personas. Meanwhile, the others worked on creating a market research survey that we can send out to get some feedback from others about what are the most important features we should include in such an app.
+
+**Thoughts:** Everything seems to be moving in a good direction. We are communicating well and having regular catch-ups and retros.
+
+**Links:**
+
+## Day 72: Wednesday 20 July 2022
+
+**Today’s progress:** First day of final projects! Today I met my team and we created a manifesto, decided on a team name (Status 418: I’m a teapot), and brainstormed possible app ideas. Since our brief was just “solve a problem”, we had a lot of problems to solve and there was a lot of ideas to be had. Eventually we settled on creating a habit-tracking app that would also offer tips on maintaining those habits long term. In the afternoon we each picked an existing habit-tracking app and looked at the features we liked and disliked, and reported back to the group to start forming a list of possible feature inclusions.
+
+**Thoughts:** We're working well together :)
+
+**Links:** [418: I’m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+
+## Day 71: Tuesday 19 July 2022
+
+**Today’s progress:** Heatwave 2: Electric Boogaloo. Today I attempted to help some fellow bootcampers with some layout and setTimeout problems they were experiencing, but I don't think I helped very much! I spent the rest of the day lying in the dark on a wet towel and trying not to move.
+
+**Thoughts:** Too hot to think.
+
+## Day 70: Monday 18 July 2022
+
+**Today’s progress:** Heatwave! Today, in the wild heat, our SOC final projects were postponed for two days. I made some attempts to sort out my notes from the last 12 weeks of school, and watched a video about making an autocompleting search bar.
+
+**Thoughts:** Too hot to think.
+
+**Links:** [React autocomplete](https://www.youtube.com/watch?v=Q2aky3eeO40)
+
+### Day XX: Sunday 17 July 2022
+
+No coding today
+
+### Day XX: Saturday 16 July 2022
+
+No coding today
+
+## Day 69: Friday 15 July 2022
+
+**Today’s progress:** Hackathon Friday, and this time we were making a weather app using Typescript. The day went quite smoothly and Patryk and I even included a bonus feature—we added a Google Maps section that automatically centred onto the location of the searched-for place.
+
+**Thoughts:** XXX
+
+**Links:** [Open Weather Map API](https://openweathermap.org/api) | [xx]()
+
+## Day 68: Thursday 14 July 2022
+
+**Today’s progress:** Typescript in React today! Quite confusing... but intriguing. Lots of scary red errors...
+
+**Thoughts:** XXX
+
+**Links:** [React in TS cheatsheet/docs](https://github.com/typescript-cheatsheets/react) | [Fireship: How to use TypeScript with React](https://www.youtube.com/watch?v=ydkQlJhodio)
+
 ## Day 67: Wednesday 13 July 2022
 
 **Today’s progress:** Introduction to Typescript today. We started off the day looking at all the random type casting that JS does in operations between different types, which was very silly. Then watched a couple of videos on TS and completed some exercises, including converting an existing simple rock, paper scissors game in JS to TS. Managed to complete the task although I think we weren't 100% understanding _how_ exactly we were solving the errors! Finally, a very brief explanation of `enums` which I'm not sure I get yet!
@@ -44,19 +98,11 @@ No coding today
 
 ## Day 64: Friday 8 July 2022
 
-**Today’s progress:** Hackathon
-
-**Thoughts:** XXX
-
-**Links:** [xx]() | [xx]()
+**Today’s progress:** Friday Hackathon - to do list and deployment to AWS amplify. Noah and I also completed a bonus task and set up Auth0 authentication.
 
 ## Day 63: Thursday 7 July 2022
 
-**Today’s progress:** XXX
-
-**Thoughts:** XXX
-
-**Links:** [xx]() | [xx]()
+**Today’s progress:** Couchbase workshop.
 
 ## Day 62: Wednesday 6 July 2022
 
