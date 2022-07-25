@@ -12,6 +12,30 @@
 
 -->
 
+## Day 76: Monday 25 July 2022
+
+**Today’s progress:** Very tired this morning, case of Mondayitis I suppose. Today we finished off the low-fi wireframes, which look amazing so far. The others are still working on the back-end planning, which they'll continue on tomorrow. Since we spent most of the day on this, we shook it up in the afternoon by talking about what we want to name the app, and I had a look at some design inspiration. There was also a guest lecture today from Gunnar Menzel from Capgemini about interview techniques and the skills you need as a software developer/engineer.
+
+**Thoughts:** Really happy with progress on project. Even though we haven't started coding, I think our plan is very detailed and will help things go smoothly down the line.
+
+## Day 75: Sunday 24 July 2022
+
+**Today’s progress:** Mostly just codewars today :) Solved some 5 kyu problems, including an interesting one about the Rot13 cypher that wasn't too difficult, and one on nested 'word' functions for which I came up with a fairly elegant solution, if I do say so myself.
+
+**Links:** [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+
+### Day XX: Saturday 23 July 2022
+
+No coding today
+
+## Day 74: Friday 22 July 2022
+
+**Today’s progress:** Today we decided on our tech stack, worked on our MVP/MLP plan and did some feature/stretch goal planning. In the afternoon we started on low-fi wireframes (my subgroup) and back-end planning (db schema, API endpoints). We also did some team building (aka chatting and getting to know each other! But also on learnings from our w9 projects and getting the most out of our mentors).
+
+I had my catch up with my mentor in the evening and we talked about the app idea (fortunately he thinks it's a good idea!) and some ways of implementing notifications for a desktop app in a fashion that would include scalability to a native mobile app down the line. He also helped me realise that it's OK to not pick exactly the 'best way' to implement a certain feature, as long as we can demonstrate that we did think about alternatives, why we picked the one we did, and how we'd implement it a different/additional way if we'd had more time.
+
+**Thoughts:** Got a fair bit done today, and the wireframes are starting to shape up.
+
 ## Day 73: Thursday 21 July 2022
 
 **Today’s progress:** Today in Status 418 we created a plan for psychological safety and began some market research. With Robert and Cai, I developed some user stories and turned those into user personas. Meanwhile, the others worked on creating a market research survey that we can send out to get some feedback from others about what are the most important features we should include in such an app.
