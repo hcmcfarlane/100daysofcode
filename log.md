@@ -12,6 +12,14 @@
 
 -->
 
+## Day 77: Tuesday 26 July 2022
+
+**Today’s progress:** Great day today, got a lot done on the component tree, user flow diagram, and discussing the final bits of the back-end schema. Cai set us up a Trello board for planning tickets and sprints. Some good advice from Nadeem today on not worrying too much about 'locking in' the back-end endpoints or db schema, as these may change especially as we iterate on the MVP.
+
+We also brought some design ideas to the table today, and voted for the 'vibe' we liked best, with the intention of this forming the vibe for the hi-fi wireframes that will happen tomorrow. Sam and I spun up the front and back ends today so at least we have something in our repos now!
+
+**Thoughts:** Felt like a slow day but looking back on it we got a lot done :)
+
 ## Day 76: Monday 25 July 2022
 
 **Today’s progress:** Very tired this morning, case of Mondayitis I suppose. Today we finished off the low-fi wireframes, which look amazing so far. The others are still working on the back-end planning, which they'll continue on tomorrow. Since we spent most of the day on this, we shook it up in the afternoon by talking about what we want to name the app, and I had a look at some design inspiration. There was also a guest lecture today from Gunnar Menzel from Capgemini about interview techniques and the skills you need as a software developer/engineer.
