@@ -12,6 +12,20 @@
 
 -->
 
+## Day 80: Friday 29 July 2022
+
+**Today’s progress:** Fairly low-key day today. Robert and I finished off the landing page, including adding Auth0 authentication, and styling the login/signup buttons properly. After lunch the group voted to have all six of us get involved in deployment which I felt was slight overkill but we do have a deployment now, even if the app is in no way ready to be viewed!
+
+Unfortunately at some point the custom Chakra theme has broken, so need to go back and figure out what went wrong and fix it. OH, I just realised what had broken it :D One of the pairs has misunderstood what was needed and added an extra ChakraProvider wrapper to the component they were working on, just need to delete it.
+
+## Day 79: Thursday 28 July 2022
+
+**Today’s progress:** Worked on the landing page with Robert. Discussed using conditional rendering to give the user a landing page if not logged in, or automatically renders the habit calendar when they are logged in. Implemented a super basic mockup in the main app that mimics authentication to get that working in practice.
+
+## Day 78: Wednesday 27 July 2022
+
+**Today’s progress:** Worked on the hifi wireframe with Bushra and got that basically finished off (at least, close enough). Decided to use Chakra UI and picked our main app fonts.
+
 ## Day 77: Tuesday 26 July 2022
 
 **Today’s progress:** Great day today, got a lot done on the component tree, user flow diagram, and discussing the final bits of the back-end schema. Cai set us up a Trello board for planning tickets and sprints. Some good advice from Nadeem today on not worrying too much about 'locking in' the back-end endpoints or db schema, as these may change especially as we iterate on the MVP.
