@@ -12,6 +12,395 @@
 
 -->
 
+## Day 80: Friday 29 July 2022
+
+**Today’s progress:** Fairly low-key day today. Robert and I finished off the landing page, including adding Auth0 authentication, and styling the login/signup buttons properly. After lunch the group voted to have all six of us get involved in deployment which I felt was slight overkill but we do have a deployment now, even if the app is in no way ready to be viewed!
+
+Unfortunately at some point the custom Chakra theme has broken, so need to go back and figure out what went wrong and fix it. OH, I just realised what had broken it :D One of the pairs has misunderstood what was needed and added an extra ChakraProvider wrapper to the component they were working on, just need to delete it.
+
+## Day 79: Thursday 28 July 2022
+
+**Today’s progress:** Worked on the landing page with Robert. Discussed using conditional rendering to give the user a landing page if not logged in, or automatically renders the habit calendar when they are logged in. Implemented a super basic mockup in the main app that mimics authentication to get that working in practice.
+
+## Day 78: Wednesday 27 July 2022
+
+**Today’s progress:** Worked on the hifi wireframe with Bushra and got that basically finished off (at least, close enough). Decided to use Chakra UI and picked our main app fonts.
+
+## Day 77: Tuesday 26 July 2022
+
+**Today’s progress:** Great day today, got a lot done on the component tree, user flow diagram, and discussing the final bits of the back-end schema. Cai set us up a Trello board for planning tickets and sprints. Some good advice from Nadeem today on not worrying too much about 'locking in' the back-end endpoints or db schema, as these may change especially as we iterate on the MVP.
+
+We also brought some design ideas to the table today, and voted for the 'vibe' we liked best, with the intention of this forming the vibe for the hi-fi wireframes that will happen tomorrow. Sam and I spun up the front and back ends today so at least we have something in our repos now!
+
+**Thoughts:** Felt like a slow day but looking back on it we got a lot done :)
+
+## Day 76: Monday 25 July 2022
+
+**Today’s progress:** Very tired this morning, case of Mondayitis I suppose. Today we finished off the low-fi wireframes, which look amazing so far. The others are still working on the back-end planning, which they'll continue on tomorrow. Since we spent most of the day on this, we shook it up in the afternoon by talking about what we want to name the app, and I had a look at some design inspiration. There was also a guest lecture today from Gunnar Menzel from Capgemini about interview techniques and the skills you need as a software developer/engineer.
+
+**Thoughts:** Really happy with progress on project. Even though we haven't started coding, I think our plan is very detailed and will help things go smoothly down the line.
+
+## Day 75: Sunday 24 July 2022
+
+**Today’s progress:** Mostly just codewars today :) Solved some 5 kyu problems, including an interesting one about the Rot13 cypher that wasn't too difficult, and one on nested 'word' functions for which I came up with a fairly elegant solution, if I do say so myself.
+
+**Links:** [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
+
+### Day XX: Saturday 23 July 2022
+
+No coding today
+
+## Day 74: Friday 22 July 2022
+
+**Today’s progress:** Today we decided on our tech stack, worked on our MVP/MLP plan and did some feature/stretch goal planning. In the afternoon we started on low-fi wireframes (my subgroup) and back-end planning (db schema, API endpoints). We also did some team building (aka chatting and getting to know each other! But also on learnings from our w9 projects and getting the most out of our mentors).
+
+I had my catch up with my mentor in the evening and we talked about the app idea (fortunately he thinks it's a good idea!) and some ways of implementing notifications for a desktop app in a fashion that would include scalability to a native mobile app down the line. He also helped me realise that it's OK to not pick exactly the 'best way' to implement a certain feature, as long as we can demonstrate that we did think about alternatives, why we picked the one we did, and how we'd implement it a different/additional way if we'd had more time.
+
+**Thoughts:** Got a fair bit done today, and the wireframes are starting to shape up.
+
+## Day 73: Thursday 21 July 2022
+
+**Today’s progress:** Today in Status 418 we created a plan for psychological safety and began some market research. With Robert and Cai, I developed some user stories and turned those into user personas. Meanwhile, the others worked on creating a market research survey that we can send out to get some feedback from others about what are the most important features we should include in such an app.
+
+**Thoughts:** Everything seems to be moving in a good direction. We are communicating well and having regular catch-ups and retros.
+
+**Links:**
+
+## Day 72: Wednesday 20 July 2022
+
+**Today’s progress:** First day of final projects! Today I met my team and we created a manifesto, decided on a team name (Status 418: I’m a teapot), and brainstormed possible app ideas. Since our brief was just “solve a problem”, we had a lot of problems to solve and there was a lot of ideas to be had. Eventually we settled on creating a habit-tracking app that would also offer tips on maintaining those habits long term. In the afternoon we each picked an existing habit-tracking app and looked at the features we liked and disliked, and reported back to the group to start forming a list of possible feature inclusions.
+
+**Thoughts:** We're working well together :)
+
+**Links:** [418: I’m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+
+## Day 71: Tuesday 19 July 2022
+
+**Today’s progress:** Heatwave 2: Electric Boogaloo. Today I attempted to help some fellow bootcampers with some layout and setTimeout problems they were experiencing, but I don't think I helped very much! I spent the rest of the day lying in the dark on a wet towel and trying not to move.
+
+**Thoughts:** Too hot to think.
+
+## Day 70: Monday 18 July 2022
+
+**Today’s progress:** Heatwave! Today, in the wild heat, our SOC final projects were postponed for two days. I made some attempts to sort out my notes from the last 12 weeks of school, and watched a video about making an autocompleting search bar.
+
+**Thoughts:** Too hot to think.
+
+**Links:** [React autocomplete](https://www.youtube.com/watch?v=Q2aky3eeO40)
+
+### Day XX: Sunday 17 July 2022
+
+No coding today
+
+### Day XX: Saturday 16 July 2022
+
+No coding today
+
+## Day 69: Friday 15 July 2022
+
+**Today’s progress:** Hackathon Friday, and this time we were making a weather app using Typescript. The day went quite smoothly and Patryk and I even included a bonus feature—we added a Google Maps section that automatically centred onto the location of the searched-for place.
+
+**Thoughts:** XXX
+
+**Links:** [Open Weather Map API](https://openweathermap.org/api) | [xx]()
+
+## Day 68: Thursday 14 July 2022
+
+**Today’s progress:** Typescript in React today! Quite confusing... but intriguing. Lots of scary red errors...
+
+**Thoughts:** XXX
+
+**Links:** [React in TS cheatsheet/docs](https://github.com/typescript-cheatsheets/react) | [Fireship: How to use TypeScript with React](https://www.youtube.com/watch?v=ydkQlJhodio)
+
+## Day 67: Wednesday 13 July 2022
+
+**Today’s progress:** Introduction to Typescript today. We started off the day looking at all the random type casting that JS does in operations between different types, which was very silly. Then watched a couple of videos on TS and completed some exercises, including converting an existing simple rock, paper scissors game in JS to TS. Managed to complete the task although I think we weren't 100% understanding _how_ exactly we were solving the errors! Finally, a very brief explanation of `enums` which I'm not sure I get yet!
+
+**Thoughts:** TS looks complex but maybe not that difficult to learn. It's still too effing hot to think.
+
+**Links:** [WAT](https://www.destroyallsoftware.com/talks/wat) | [JS type coercion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/) | [JS is weird quiz](https://jsisweird.com/) | [Fireship - TS in 100s](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
+
+## Day 66: Tuesday 12 July 2022
+
+**Today’s progress:** Today we had most of the day to work on our portfolio pages. The design of mine is coming along nicely, although I haven't even begun to start on any features or functionality.
+
+**Thoughts:** Extremely hot again today, and difficult to concentrate. It was nice to have a fancy design to show for my work today, even if it's completely static with lorem ipsum so far :D Too hot.
+
+## Day 65: Monday 11 July 2022
+
+**Today’s progress:** Paired with Patryk this week. Today we delved into some component libraries, and had a mini hackathon in the afternoon where we used Chakra UI to make a simple and silly useless app.
+
+**Thoughts:** I was feeling a bit down today, but I found using a brand-new library quite intuitive and that helped with my confidence a lot.
+
+**Links:** [Chakra UI](https://chakra-ui.com/getting-started) | [xx]()
+
+### Day XX: Sunday 10 July 2022
+
+No coding today
+
+### Day XX: Saturday 9 July 2022
+
+No coding today
+
+## Day 64: Friday 8 July 2022
+
+**Today’s progress:** Friday Hackathon - to do list and deployment to AWS amplify. Noah and I also completed a bonus task and set up Auth0 authentication.
+
+## Day 63: Thursday 7 July 2022
+
+**Today’s progress:** Couchbase workshop.
+
+## Day 62: Wednesday 6 July 2022
+
+**Today’s progress:** First task in the morning was to research Context and useContext, and create a 'tutorial' of some kind to introduce these topics (and get some practice explaining props and state as well as context). Noah and I went a bit mad making a diagram in React that could demonstrate the difference between prop drilling and useContext.
+
+Today I learned that the problem with the error message "Failed to execute 'createElement' on 'Document': The tag name provided ('/static/media/PrFinalHeading.c0bd52abd056fe6e295b') is not a valid name." is that you've failed to add `.js` to the end of the filename of a component!
+
+In the afternoon we looked at custom hooks and how to use them to make your App.js files look nicer. I'm not sure I 100% get the concept of it, even though we were able to get them working!
+
+**Thoughts:** First I was like "What" then I was like "Ohh". Then I was like "What" and now I'm at "What just happened?"
+
+**Links:** [Composing react hooks](https://ziffur.com/article/composing_with_react_hooks) | [Custom hooks](https://www.youtube.com/watch?v=Jl4q2cccwf0) | [usehooks.com](https://usehooks.com/)
+
+## Day 61: Tuesday 5 July 2022
+
+**Today’s progress:** Today we again deployed a front-end to Netlify, but also added in a back-end that's hosted on Heroku. It was a simple shopping list app, and we were given much free reign to basically test out anything we wanted to practice.
+
+We managed to get the deployments working fairly easily, then created a delete route on the back end and a delete button on the front that talked to each other. Pro tip: re-deploy or reset the app after changing environment variables!!
+
+In the afternoon we began on adding user login functionality with the aim of making individual shopping lists for a logged-in user. We managed to capture the userID and make it available to do fetch requests with it, but didn't quite finish it off. Hopefully we will be able to continue on this tomorrow and get it working!
+
+Another thing we learned today is that if you designate a HTTP status code of 204 (No Content), then browsers will actually strip out the response body to make it compatible!
+
+**Thoughts:** It's very much coming together, today was another very satisfying day.
+
+**Links:** [Back](https://w11-shoppinglist.herokuapp.com/items) | [Front](https://courageous-kashata-489ed5.netlify.app/) | [Free for Devs](https://free-for.dev/#/)
+
+## Day 60: Monday 4 July 2022
+
+**Today’s progress:** Week 11 of SOC and paired with Noah this week :) Today we did deployment for front-end apps using Netlify. Started by reading the docs on Netlify and understanding what it's supposed to do, including topics like forms, environment variables, serverless functions and Netlify identify. I also first heard the term 'Jamstack', which seems to be basically everything we've been learning so far. Spun up a super basic React app with CRA, deployed to Netlify, and then added a form that automatically sends the data to the Netlify dashboard.
+
+**Thoughts:** Extremely satisfying day!
+
+**Links:** [Implement Netlify Forms in React App - The CORRECT Way](https://www.youtube.com/watch?v=vCaSywNc9wQ) | [Netlify docs](https://docs.netlify.com/) | [Frabjous Kashata](https://frabjous-kashata-3d530f.netlify.app/)
+
+## Day 59: Sunday 3 July 2022
+
+**Today’s progress:** Catching up on Week 10 as I missed most of last week due to covid :( Thursday in class was an intro to Auth0 and a workshop. Today I've been watching a bunch of introductory youtube videos on authentication and authorization, in preparation for having a crack at the workshop. Ok so I got part 1 of the workshop working, enabling a user to log in and out and displaying the user's metadata so that was something.
+
+**Thoughts:** Difficult to catch up when the workshop's instructions were so vague and I don't know what I missed in class.
+
+**Links:**
+
+Auth0
+
+-   [Authentication](https://www.youtube.com/watch?v=tZPENgB_Rd0)
+-   [Authorisation](https://www.youtube.com/watch?v=gnZo3BJgjpI)
+-   [Auth vs explained](https://www.youtube.com/watch?v=2iTTBJd46ow)
+-   [Authentication vs authorisation](https://www.youtube.com/watch?v=85BBfKo6bdo)
+
+Other
+
+-   **Hi! My name is...**, talk by James Bennet (27m) on the problems with usernames as unique identifiers, potential security risks, and some nerdy Unicode stuff https://www.youtube.com/watch?v=NIebelIpdYk
+-   **User names to reserve**: more on malicious/security-risk usernames, ~10min read https://ldpreload.com/blog/names-to-reserve
+-   **The Tripartite Identity Pattern**: better ways of using usernames, logins and public IDs, ~8min read http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/
+
+### Day XX Saturday 2 July 2022
+
+COVID
+
+### Day XX Friday 1 July 2022
+
+COVID
+
+### Day XX Thursday 30 June 2022
+
+COVID
+
+### Day XX Wednesday 29 June 2022
+
+COVID
+
+## Day 58: Tuesday 28 June 2022
+
+**Today’s progress:** Codewars: baby shark lyrics generator. How to write documentation. Then writing documentation for our project. Idman and I also manged to get a new test up and running, but not before breaking some other tests lol. Here is some useful code that should help avoid the ECONNREFUSED error:
+
+```
+if (process.env.NODE_ENV != "test") {
+	app.listen(PORT, () => {
+		console.log(`listening on port ${PORT}`);
+	});
+}
+```
+
+**Thoughts:** XXX
+
+**Links:** [Codewars - Baby shark lyrics](https://www.codewars.com/kata/5d076515e102162ac0dc514e/train/javascript) | [readme.so](https://readme.so/editor)
+
+## Day 57: Monday 27 June 2022
+
+**Today’s progress:** Week 10! This morning we had a team retro, which went pretty damn fantastically. We really worked great together as a team, and we had a lot of positive feedback for each other. Apparently this week we are doing deployment as well, which will be cool. IN the afternoon we practiced code reviews by looking at the code for Team Bruh's project, Wack.
+
+**Thoughts:** XXX
+
+**Links:** [Project retro on Trello](https://trello.com/b/uVUIHpNi/week-9-project-retrospectives) | [Atlassian Play Book - Retros](https://www.atlassian.com/team-playbook/plays/retrospective) | [Code reviews video (37mins)](https://www.youtube.com/watch?v=PJjmw9TRB7s) | [Team Bruh: Wack](https://sage-unicorn-717860.netlify.app/)
+
+## Day XX: Sunday 26 June 2022
+
+No coding today
+
+## Day 56: Saturday 25 June 2022
+
+**Today’s progress:** Today I started on my journey to learn Ruby, via Codecademy. I tried to teach myself about a decade ago (_ahhhh!_), so I don't really remember anything. It's fairly straightforward so far, it'll just be getting the hang of syntax and a few other differences between it and JS (e.g. immutable methods).
+
+**Thoughts:** `elsif` is very annoying :D
+
+**Links:** [Codecademy - Learn Ruby](https://www.codecademy.com/courses/learn-ruby)
+
+## Day 55: Friday 24 June 2022
+
+**Today’s progress:** Presentation day! We finished most things on the app on Thursday afternoon, although Ben and Tom worked on getting the Upload form to not just take in new data but also display it on the app immediately. Which fortunately went really well, no dramas! We spent the morning working on the presentation, then after lunch practiced it a few times before presenting around 3.30pm. It was quite nerve-wracking going last, as we (OK, me) had a lot of downtime before the judges arrived in which to get nervous. But, the presentation went well. Tom's mentor's suggestion of appointing someone as the facilitator of questions was an amazing idea, and I think I handled the role pretty well, giving the others time to think before either answering myself or handing over to someone to answer it.
+
+**Thoughts:** Our team worked amazingly together. Here was my short final reflection on the week
+
+> I’d like to echo how well we worked together – we came together to make decisions so that nothing was really decided in a vacuum. For me, even though I spent time on learning new things and going outside my comfort zone, in some ways I stuck to my strengths on this project, and in future I think I should try to work on aspects I am less confident with.
+
+## Day 54: Thursday 23 June 2022
+
+**Today’s progress:** Today I worked on some styling for our app, including some cool bubble animations for the Go buttons, and started/finished the slide-out menu for the upload form. Troubleshot some CSS problems.
+
+## Day 53: Wednesday 22 June 2022
+
+**Today’s progress:** More project week :) I continued to work on the front end today, finishing the folio display list. We also got the front and back ends linked up and successfully talking to each other. Then Ben and I worked on adding search and filter functionality, as well as a reset button that clears the search/filtering. Tom and Idman worked on the upload form for posting new folios to the db and displaying them.
+
+## Day 52: Tuesday 21 June 2022
+
+**Today’s progress:** Second day of project week! Idman and I worked on the front end today and have a skeleton of an app sketched out, with which components will be used and where. Ben and Tom have been working on the back-end database, setting up the routes and CRUD ops. I created cards for the folios and the beginnings of a display grid that takes in data from the backend to display the individual folios. I also created some logos and set up brand colours.
+
+## Day 51: Monday 20 June 2022
+
+**Today’s progress:** Project week! Idman, Ben, Tom and I used the whole creation process we've been through in the course – Disney ideation, jamboards, Miro wireframes and planning. Tom and I split off to create a questionnaire for other bootcampers that would help inform the requirements of our project.
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 50: Sunday 19 June 2022
+
+**Today’s progress:** Worked on the week 8 recap task ("practice anything you think you need a refresher on") by attempting to use another API to make a website, similar to the hackathon project that Lorentz and I had done. Unfortunately it seems I used an API that I couldn't access – or at least, couldn't figure out how to access! (I have since realised that the API link no longer resolves, so I guess it was never being maintained - so probably not my fault!!) Watched some vidoes and practiced some troubleshooting, plus now I'm really quick at spinning up `create-react-app` lol.
+
+**Links:** [National Museum of Australia - Convict Love Tokens](http://love-tokens.nma.gov.au/api)
+
+## Day XX: Saturday 18 June 2022
+
+Day off coding
+
+## Day 49: Friday 17 June 2022
+
+**Today’s progress:** _(filled out later)_ Hackathon Friday! Lorentz and I used the Cocktail API to make a React app that loaded a Margarita cocktail on page load and had a search function that displayed all cocktails with that name in. We used the list mapping method shown earlier in the week. And I ofc made it look pretty :) Great week.
+
+## Day 48: Thursday 16 June 2022
+
+**Today’s progress:** _(filled out later)_ **_WATCH VIDEOS_** (Notes in wrong place of notebook 1) Git branching reminder and practice. Guest talk: Talis, Nadeem and a cospeaker. On HTML verbs and RESTful APIs. I found it very difficult to concentrate. Something about mapping over arrays in the last part of the day, maybe?
+
+## Day 47: Wednesday 15 June 2022
+
+**Today’s progress:** _(filled out later)_ **_WATCH VIDEOS_** A talk from Mark and Haley at Experian. I asked a question about their gender diversity at senior leadership levels and their diversity and inclusion policies. This set off a whole bloody stressful thing, finding out that some people in the course do not share similar values (or, at least, have chosen ignorance). Afternoon was React testing, which I probably need to go over sometime...My tests were inexplicably failing to run!
+
+## Day 46: Tuesday 14 June 2022
+
+**Today’s progress:** _(filled out later)_ Some computer sci theory in the morning, learning about the finite state machine, which naturally led into an intro to `useReducer`. `useReducer` can handle multiple difference states that you access via (e.g.) `select` statements in the reducer function.
+
+## Day 45: Monday 13 June 2022
+
+**Today’s progress:** Week 8 of school and new partner is Lorentz! Today we are learning about pure functions in React and the important of purity so that React works. In the morning I managed to get my blog page from the recap task working with an 'Add comment' function. In the afternoon we looked at `useEffect` and its uses and limitations.
+
+**Thoughts:** Realised that the way I did my form (ahem...`getElementById`) was Not Good, lol. Probably should rework it. The best way seems to be to save states for the diff values needed from the field. See link that Afam sent
+
+**Links:** [React docs Beta - Pure components - Challenges](https://beta.reactjs.org/learn/keeping-components-pure#challenges) | [React form onSubmit handler](https://epicreact.dev/how-to-type-a-react-form-on-submit-handler/)
+
+## Day 44: Sunday 12 June 2022
+
+**Today’s progress:** Worked on the w7 recap tasks and have set up a blog with comments using React. So far, it's completely static - next step is to be able to add comments and have React update the page automagically.
+
+For the destination list that was from Friday's hackathon, I managed to figure out the edge cases of the first and last arrow buttons (OK... just by setting `visibility: hidden` lol)
+
+**Thoughts:** XXX
+
+**Links:** [xx]() | [xx]()
+
+## Day 43: Saturday 11 June 2022
+
+**Today’s progress:** Made some changes to the hackathon holiday destinations list today. Added a 'Sort alphabetically' button, as a challenge issued to me yesterday by my mentor. Was slightly too easy actually, just needed a new function with `setArray([...array].sort())`. The sort method automatically sorts alphabetically so it was quite straightforward. The other challenge was to be able to manually reorder the items in the list with arrow buttons or a drag and drop.
+
+_Updated a few hours later..._ Spent absolutely ages getting Font Awesome to work in React but it works :D I've now added sort buttons, but haven't addressed the edge cases of the top and bottom items in the list. Tomorrow!
+
+**Thoughts:** Extremely tired today as I went out last night! But feeling better as I had some water and did some coding :)
+
+**Links:** [Sort method MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) | [Font Awesome in React](https://fontawesome.com/v5/docs/web/use-with/react#using-icons)
+
+## Day 42: Friday 10 June 2022
+
+**Today’s progress:** React-a-thon Today! Raj and I made a 'to-do list'-style app that was actually a list of holiday destinations. Mentor meeting after school and Mark has given me homework to do 😂
+
+**Thoughts:** It was awesome and I'm really proud of how much we got done
+
+**Links:** [W7 React Hackathon](https://github.com/hcmcfarlane/w7d5-fork-hackathon_react-athon-hannah-and-rajesh)
+
+## Day 41: Thursday 9 June 2022
+
+**Today’s progress:** Trenton Moss from Team Sterka did the mindset session today (sort of a mini Insights Discovery). He introduced us to his 'Platinum Rule' : Treat others as _they_ wish to be treated. Great advice tbh. We learned about the spread operator, how to spread nested objects (etc) and the importance of immutability in React. The workshop in the afternoon was about using the spread operator to add, remove and replace data in arrays in objects. 🎵 _Spread and slice makes everything nice!_ 🎵
+
+**Thoughts:** Looking forward to the hackathon!
+
+**Links:** [Spread syntax - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+## Day 40: Wednesday 8 June 2022
+
+**Today’s progress:** Have caught up on sleep now, so feeling a lot better and ready for more React! Today I also had my enablement coach meeting, where I got some amazing feedback, which really boosted me. Today we started on state changes with React and it seems to have sunk in! Made a fun little project in the workshop that took in some text and printed it out in different fonts. JSX is starting to come together, although I'm confused as to why style changes need so many damn braces haha. Also tried to do some more of the FreeCodeCamp responsive web design course. Want to finish the first three before I get a job... We'll see! I also tried the first code challenge on the React docs Learn page on states.
+
+**Thoughts:** It's all coming together now... Sooon...
+
+**Links:** [React State](https://beta.reactjs.org/learn/state-a-components-memory) | [xx]()
+
+## Day 39: Tuesday 7 June 2022
+
+**Today’s progress:** Didn't get much sleep last night, as my flight home from Tenerife was delayed. Muddled through a bit! Morning we had a guest talk from Nick Truby from BT who showed us how he works with React in his day-to-day job. More on React – today delving into JSX, what Babel is, and how to have child elements in React. Then we spun up React apps using `npx create-react-app` (CRA) rather than the CDN, although mine didn't work as nodist still doesn't have support for updated version of npx. We also learned about the conventional ways to structure a React app, with components in subfolders and so on.
+
+**Thoughts:** Tired, but really enjoying learning React.
+
+**Links:** [CRA](https://create-react-app.dev/)
+
+## Day 38: Monday 6 June 2022
+
+**Today’s progress:** Did school from the hotel lobby today :) Intro to React! Fab guest talk in the AM from Piper Bates about their work and their journey from bootcamper to developer. In the PM we learnt about how React is a library, not a framework, and how it reacts to DOM changes using the virtual DOM, how it contains easily reusable components, and what those components look like. We initially used React from a CDN, and used `React.createElement` and props to create some functional components.
+
+**Thoughts:** Hooray!
+
+**Links:** [React docs](https://reactjs.org/) | [Beta React docs](https://beta.reactjs.org/) (written with hooks) | [Piper Bates](https://twitter.com/ProgrammerPiper)
+
+## Days 36, 37 Thursday 2 June–Sunday 5 June 2022
+
+**Today’s progress:** On holidays over the Queen's Jubilee bank holiday, so I only did a few hours coding over the long weekend. I worked on the week 6 weekend recap task, did some more practice with Cypress and supertest, and read/watched a few blogs and videos on React in preparation for Weeks 7–8!
+
+**Thoughts:** Really excited to get into React. Also extremely relaxed from lying in the sun most days.
+
+**Links:** [Fireship - React in 100 seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+
+## Day 35: Wednesday 1 June 2022
+
+**Today’s progress:** Testing with supertest and Cypress.
+
+**Links:** [Supertest docs](https://www.npmjs.com/package/supertest)
+
+## Day 34: Tuesday 31 May 2022
+
+**Today’s progress:** Recap of Jest and the importance of test-driven development. Guest talk in the arvo on intro to testing with Cypress: Jordan Powell and Robert Guss. Extremely generous with their time today, we had a very comprehensive session with plenty of time for questions.
+
+**Thoughts:** I hope we get to try out Cypress ourselves tomorrow.
+
+**Links:** [Cypress docs](https://docs.cypress.io/) | [TDD video from Fireship](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+
 ## Day 33: Monday 30 May 2022
 
 **Today’s progress:** Started on testing today with Jest.
