@@ -716,3 +716,7 @@ In the evening, I attended a virtual talk at ConFig (Figma conference) on Design
 **Thoughts:** Very easy, made me feel smart :joy:
 
 **Link to work:** [FreeCodeCamp - Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+
+```
+
+```
